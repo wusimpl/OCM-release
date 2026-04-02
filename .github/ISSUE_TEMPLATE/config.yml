@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "📖 提交 Issue 前，请先阅读 README"
+    url: "https://github.com/wusimpl/OCM-release#readme"
+    about: "请先阅读 README，了解软件下载说明和基础反馈要求。"
